@@ -35,3 +35,7 @@
 ### 이미지 넣기
 ![Image](https://github.com/user-attachments/assets/534f6a6f-a63a-40ed-824b-7222f6104c9c)
 <img src="![Image](https://github.com/user-attachments/assets/534f6a6f-a63a-40ed-824b-7222f6104c9c)" style="width: 500px"/>
+
+### 나만의 깃허브 올리기
+https://github.com/kimtanhyung/rjrod/edit/main/README.md
+[https://github.com/kimtanhyung/rjrod/edit/main/README.md]
